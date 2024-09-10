@@ -48,7 +48,7 @@ function Contact() {
                   <textarea
                     name="txtMsg"
                     className="form-control"
-                    placeholder="Your Message *"
+                    placeholder="Your Message *s"
                   ></textarea>
                 </div>
               </div>
